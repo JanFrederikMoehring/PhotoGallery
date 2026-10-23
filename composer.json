@@ -4,7 +4,8 @@
         "symfony/routing": "^8.1",
         "symfony/http-kernel": "^8.1",
         "symfony/event-dispatcher": "^8.1",
-        "symfony/dependency-injection": "^8.1"
+        "symfony/dependency-injection": "^8.1",
+        "ext-pdo": "*"
     },
 
     "autoload": {
