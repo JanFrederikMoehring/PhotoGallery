@@ -1,1 +1,1 @@
-Hello <?= htmlspecialchars($name ?? 'World', ENT_QUOTES, 'UTF-8') ?>
+Nice to see you. Hello <?= htmlspecialchars($name ?? 'World', ENT_QUOTES, 'UTF-8') ?>
